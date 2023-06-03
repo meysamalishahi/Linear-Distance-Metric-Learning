@@ -1,6 +1,6 @@
 # Linear-Distance-Metric-Learning
 This repository contains code and resources related to the paper "[Linear Distance Metric Learning]()." 
-The paper explores the topic of distance metric learning and presents some novel approaches to learn a liner distance metric.
+The paper explores the topic of linear distance metric learning and presents some novel approaches to learn a liner distance metric.
 
 ### Abstract
 

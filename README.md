@@ -2,7 +2,7 @@
 This repository contains code and resources related to the paper "Linear Distance Metric Learning." 
 The paper explores the topic of distance metric learning and presents a linear approach to learn a distance metric for various applications.
 
-Abstract
+### Abstract
 
 In linear distance metric learning, we are given data in one Euclidean metric space and the goal is to find an appropriate linear map to another Euclidean metric space which respects certain distance conditions as much as possible. In this paper, we formalize a simple and elegant method which reduces to a general continuous convex loss optimization problem, and for different noise models we derive the corresponding loss functions. 
 We show that even if the data is noisy, the ground truth linear metric can be learned with any precision provided access to enough samples, and we provide a corresponding sample complexity bound. 

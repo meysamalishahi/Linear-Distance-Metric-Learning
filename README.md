@@ -11,8 +11,8 @@ In linear distance metric learning, we are given data in one Euclidean metric sp
 
 The repository is structured as follows:
 
-- `Real Data`/: This directory contains the implementation of the linear distance metric learning algorithm for real data. 
-- `Synthetic Data`/: In this directory, you will find the assessment of our model on synthetic data. Additionally, it includes a comparison of our model's performance with the DML-eig model.
+- [`Real Data`/](): This directory contains the implementation of the linear distance metric learning algorithm for real data. 
+- [`Synthetic Data`/](): In this directory, you will find the assessment of our model on synthetic data. Additionally, it includes a comparison of our model's performance with the DML-eig model.
 
 
 

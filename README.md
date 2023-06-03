@@ -10,13 +10,13 @@ In linear distance metric learning, we are given data in one Euclidean metric sp
 
 If you find this work useful or refer to it in your own research, please cite the paper using the following BibTeX entry:
 
-@article{YourLastName2023Linear,
-  title={Linear Distance Metric Learning},
-  author={Your Last Name, Your First Name},
-  journal={Journal Name},
-  year={2023},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+@article{YourLastName2023Linear,\\
+  title={Linear Distance Metric Learning},\\
+  author={Your Last Name, Your First Name},\\
+  journal={Journal Name},\\
+  year={2023},\\
+  volume={},\\
+  number={},\\
+  pages={},\\
+  doi={}\\
 }

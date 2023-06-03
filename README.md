@@ -12,7 +12,7 @@ In linear distance metric learning, we are given data in one Euclidean metric sp
 The repository is structured as follows:
 
 - [`Real Data`/](https://github.com/meysamalishahi/Linear-Distance-Metric-Learning/tree/main/Real%20Data): This directory contains the implementation of the linear distance metric learning algorithm for real data. 
-- [`Synthetic Data`/](): In this directory, you will find the assessment of our model on synthetic data. Additionally, it includes a comparison of our model's performance with the DML-eig model.
+- [`Synthetic Data`/](https://github.com/meysamalishahi/Linear-Distance-Metric-Learning/tree/main/Synthetic%20Data): In this directory, you will find the assessment of our model on synthetic data. Additionally, it includes a comparison of our model's performance with the DML-eig model.
 
 
 

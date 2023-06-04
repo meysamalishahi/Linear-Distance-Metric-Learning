@@ -1,4 +1,5 @@
 # Linear-Distance-Metric-Learning
+## {\it Meysam Alishahi, Anna Little, and Jeff M. Phillips}
 This repository contains code and resources related to the paper "[Linear Distance Metric Learning]()." 
 The paper explores the topic of linear distance metric learning and presents some novel approaches to learn a liner distance metric.
 

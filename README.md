@@ -1,6 +1,6 @@
 # Linear-Distance-Metric-Learning
 ## By: Meysam Alishahi, Anna Little, and Jeff M. Phillips
-This repository contains code and resources related to the paper "[Linear Distance Metric Learning]()." 
+This repository contains code and resources related to the paper "[Linear Distance Metric Learning](http://arxiv.org/abs/2306.03173)." 
 The paper explores the topic of linear distance metric learning and presents some novel approaches to learn a liner distance metric.
 
 ### Abstract
@@ -23,14 +23,12 @@ The repository is structured as follows:
 
 If you find this work useful or refer to it in your own research, please cite the paper using the following BibTeX entry:
 ```
-@article{YourLastName2023Linear,
-  title={Linear Distance Metric Learning},
-  author={Your Last Name, Your First Name},
-  journal={Journal Name},
-  year={2023},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+@misc{alishahi2023linear,
+      title={Linear Distance Metric Learning}, 
+      author={Meysam Alishahi and Anna Little and Jeff M. Phillips},
+      year={2023},
+      eprint={2306.03173},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```

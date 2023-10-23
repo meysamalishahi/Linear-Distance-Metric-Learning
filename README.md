@@ -1,4 +1,4 @@
-# Linear-Distance-Metric-Learning
+# Linear-Distance-Metric-Learning with Noisy Labels
 ## By: Meysam Alishahi, Anna Little, and Jeff M. Phillips
 This repository contains code and resources related to the paper "[Linear Distance Metric Learning](http://arxiv.org/abs/2306.03173)." 
 The paper explores the topic of linear distance metric learning and presents some novel approaches to learn a liner distance metric.
